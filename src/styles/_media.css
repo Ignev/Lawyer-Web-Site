@@ -1,0 +1,63 @@
+@media (width <= 720px){
+
+    /* Header Top menu */
+
+    .header__top-menu{
+        justify-content: space-between;
+    }
+
+    /* Header navigation */
+
+    .nav__list{
+        display: none;
+    }
+    .nav__btn{
+        display: block;
+    }
+
+    /* Header content */
+
+    .header__content{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-right: 0;
+    }
+
+    /* Servise */
+
+    .services__lists{
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    .services__inner{
+        padding-bottom: 50px;
+    }
+
+    /* About us */
+
+    .about-us__info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        padding: 10px;
+    }
+    .about-us__info__text{
+        margin-bottom: 50px;
+    }
+
+    /* Contacts */
+
+    .contacts__content{
+        flex-direction: column;
+    }
+
+    .form{
+        align-items: center;
+    }
+
+}

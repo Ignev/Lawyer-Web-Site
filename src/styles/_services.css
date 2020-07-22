@@ -1,0 +1,23 @@
+.services{
+    background: var(--additional-bg);
+}
+.services__text{
+    margin-bottom: 150px;
+}
+.services__lists{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+.services__list{
+    display: flex;
+    flex-direction: column;
+}
+.services__list__item{
+    font-size: 24px;
+    list-style: none;
+    margin-bottom: 15px;
+}

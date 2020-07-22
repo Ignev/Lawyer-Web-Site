@@ -1,0 +1,34 @@
+/*  */
+
+@import "_vars.css";
+
+/* Fonts */
+
+@import "_fonts.css";
+
+/* Common */
+
+@import "_common.css";
+
+/* Header */
+
+@import "_header.css";
+
+/* Main */
+
+@import "_form.css";
+
+@import "_services.css";
+@import "_about-us.css";
+@import "_achievements.css";
+@import "_reviews.css";
+@import "_contacts.css";
+
+
+/* Footer */
+
+@import "_footer.css";
+
+/* Media */
+
+@import "_media.css";

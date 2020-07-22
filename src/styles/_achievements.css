@@ -1,0 +1,22 @@
+.achievements{
+    background: #f5f5f5fd;
+}
+.slider__container{
+    overflow: hidden;
+}
+.slider__track{
+    display: flex;
+    transition: .2s;
+}
+.slider__item{
+
+}
+.slider__btns{
+
+}
+.slider__btn-left{
+
+}
+.slider__btn-right{
+    text-align: center;
+}

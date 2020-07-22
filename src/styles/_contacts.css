@@ -1,0 +1,27 @@
+.contacts{
+    background: var(--additional-bg);
+}
+.contacts__content{
+    width: 100%;
+    display: flex;
+    padding: 80px;
+}
+.contacts__info{
+    display: flex;
+    flex-direction: column;
+}
+.contacts__form{
+    margin-bottom: 50px;
+}
+.contacts__address{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.contacts__links{
+    display: flex;
+    flex-direction: column;
+}
+.contacts__links__item{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
