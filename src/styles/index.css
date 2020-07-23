@@ -10,6 +10,10 @@
 
 @import "_common.css";
 
+/* Popup */
+
+@import "_popup.css";
+
 /* Header */
 
 @import "_header.css";

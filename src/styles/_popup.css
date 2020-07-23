@@ -1,0 +1,26 @@
+.popup{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.377);
+    z-index: 20;
+}
+.popup__inner{
+    background: var(--main-bg);
+    max-width: 40%;
+    min-height: 50%;
+    padding: 40px;
+    border-radius: 20px;
+    position: relative;
+}
+.popup__title{
+    margin-bottom: 50px;
+}
+.popup__close{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}

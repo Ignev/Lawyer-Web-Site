@@ -1,6 +1,8 @@
 .form{
     display: flex;
     flex-direction: column;
+    padding: 10px;
+    min-width: 80%;
 }
 .form__input{
     padding: 10px;

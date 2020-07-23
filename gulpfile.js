@@ -44,6 +44,7 @@ import del from 'del';
 import fileinclude from 'gulp-file-include';
 import webpack from 'webpack-stream';
 import sourcemaps from 'gulp-sourcemaps';
+import corejs from 'core-js';
 import imagesmin from 'gulp-imagemin';
 import webp from 'gulp-webp';
 import woff from 'gulp-ttf2woff';
